@@ -13,7 +13,7 @@
 		90AC888B23A82F3900C4EDF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90AC888923A82F3900C4EDF9 /* Main.storyboard */; };
 		90AC888D23A82F3C00C4EDF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90AC888C23A82F3C00C4EDF9 /* Assets.xcassets */; };
 		90AC889023A82F3C00C4EDF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90AC888E23A82F3C00C4EDF9 /* LaunchScreen.storyboard */; };
-		90AC889823A848A900C4EDF9 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 90AC889723A848A900C4EDF9 /* start.txt */; };
+		90AC889A23A9803500C4EDF9 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 90AC889923A9803500C4EDF9 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		90AC888C23A82F3C00C4EDF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90AC888F23A82F3C00C4EDF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90AC889123A82F3C00C4EDF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		90AC889723A848A900C4EDF9 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		90AC889923A9803500C4EDF9 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../../Downloads/HackingWithSwift-master/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				90AC888C23A82F3C00C4EDF9 /* Assets.xcassets */,
 				90AC888E23A82F3C00C4EDF9 /* LaunchScreen.storyboard */,
 				90AC889123A82F3C00C4EDF9 /* Info.plist */,
-				90AC889723A848A900C4EDF9 /* start.txt */,
+				90AC889923A9803500C4EDF9 /* start.txt */,
 			);
 			path = Anagrams;
 			sourceTree = "<group>";
@@ -129,7 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				90AC889023A82F3C00C4EDF9 /* LaunchScreen.storyboard in Resources */,
-				90AC889823A848A900C4EDF9 /* start.txt in Resources */,
+				90AC889A23A9803500C4EDF9 /* start.txt in Resources */,
 				90AC888D23A82F3C00C4EDF9 /* Assets.xcassets in Resources */,
 				90AC888B23A82F3900C4EDF9 /* Main.storyboard in Resources */,
 			);
